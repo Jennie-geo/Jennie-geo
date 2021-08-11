@@ -5,7 +5,7 @@
    Algorithm and Data Structure, QQualitative Assurance(Writing Test Cases),
    Version Controling(Git and Github), lover of Terminal operation(CLI) and gitBash
 - 💞️ I’m looking to collaborate on challenging and interesting project
-- 📫 How to reach me: kakupepe09@gmail.com
+- 📫 How to reach me: kakupepe09@gmail.com or dial 08104233244
 
 <!---
 Abumuazu/Abumuazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
