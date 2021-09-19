@@ -69,10 +69,6 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 <br >
 
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
