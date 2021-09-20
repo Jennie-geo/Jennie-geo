@@ -16,7 +16,7 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 - 🔭 I’m currently working with @Decagon
 - :computer: Most used line of code `git commit -m "finished implementing issue section"`
-- 🤔 I’m looking for a challenging project to hop on, i'm open to collaborations 😊. checkout [My Resume]("https://drive.google.com/file/d/1hVNpIis3LdBPft4sR-OgQzdNDch1tNH-/view?usp=sharing)
+- 🤔 I’m looking for a challenging project to hop on, i'm open to collaborations 😊. checkout [My portfolio website]("https://muazuabu.netlify.app/")
 - 📫 How to reach me: muazu.dev@gmail.com.
 - 😄 observation: I know my name can be difficult to pronounce esp for a first timer😃, buh it fine, you can just call me sunday
 - ⚡ Fun fact: I am a music freak, i dO not even remember that i need to EAT whenever i am in my music realm, a foodie like me😃... ikr😏, it still amuses me too
