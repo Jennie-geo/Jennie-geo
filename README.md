@@ -1,15 +1,15 @@
-## Hi I'm Muazu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi! I'm Jenny <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Muazu Abu, i'm a full stack developer(Node Engineer), a Designer, and a technical writer [My first article](https://www.educative.io/edpresso/what-is-the-createdecipheriv-method-in-nodejs). I turn ideas/abstraction into real life products.
-I Spend most of time coding outstanding projects capitalizing on exceptional user experience and scalable applications.
+I'm Isintume Jennifer, a full stack developer(Node Engineer) and a technical writer [My first article](https://www.educative.io/edpresso/what-are-cryptoconstants). I turn ideas/abstraction into real life products.
+I Spend most of my time coding outstanding projects, which capitalize on exceptional user experience and scalable applications.
 
 :mailbox: you can Reach out😇
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) -->
- 
- [![Linkedin Badge](https://img.shields.io/badge/-muazu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/muazu) [![Mail Badge](https://img.shields.io/badge/-muazu.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muazu.dev@gmail.com)
- 
-<!--  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jenny-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-isintume-319aa018a/) [![Mail Badge](https://img.shields.io/badge/-Jenny.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](isintumejenny@gmail.com)
+
+<!--
  [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)  -->
 
 <!-- TODO: Add last video link -->
@@ -17,9 +17,8 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 - 🔭 I’m currently working with @Decagon
 - :computer: Most used line of code `git commit -m "finished implementing issue section"`
 - 🤔 I’m looking for a challenging project to hop on, i'm open to collaborations 😊. checkout [My portfolio website]("https://muazuabu.netlify.app/")
-- 📫 How to reach me: muazu.dev@gmail.com.
-- 😄 observation: I know my name can be difficult to pronounce esp for a first timer😃, buh it fine, you can just call me sunday
-- ⚡ Fun fact: I am a music freak, i dO not even remember that i need to EAT whenever i am in my music realm, a foodie like me😃... ikr😏, it still amuses me too
+- 📫 How to reach me: isintumejenny@gmail.com.
+- ⚡ Fun fact: I am a movie freak. If am not coding, am watching movie. Most times, i forget to EAT when i am in my movie realm, it still amuses me.
 
 #### Top Technologies
 
@@ -56,8 +55,7 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 <br />
 <br />
 
-
-#### Profile Visits 
+#### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abumuazu.abumuazu)
 
@@ -68,13 +66,14 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 <br >
 
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
@@ -83,10 +82,7 @@ No Activity tracked this Week
 
 </details>
 
-
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
-
-
