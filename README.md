@@ -1,6 +1,6 @@
 ## Hi! I'm Jenny <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Isintume Jennifer, a full stack developer(Node Engineer) and a technical writer [My first article](https://www.educative.io/edpresso/what-are-cryptoconstants). I turn ideas/abstraction into real life products.
+I'm Isintume Jennifer, a full stack developer(Node Engineer) though more focus on backend development and a technical writer [My first article](https://www.educative.io/edpresso/what-are-cryptoconstants). I turn ideas/abstraction into real life products.
 I Spend most of my time coding outstanding projects, which capitalize on exceptional user experience and scalable applications.
 
 :mailbox: you can Reach out😇
@@ -14,11 +14,11 @@ I Spend most of my time coding outstanding projects, which capitalize on excepti
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working with @Decagon
+- 🔭 I’m currently working as a backend Developer with Squareme, A payment company in Lagos, Nigeria
 - :computer: Most used line of code `git commit -m "finished implementing issue section"`
-- 🤔 I’m looking for a challenging project to hop on, i'm open to collaborations 😊. checkout [My portfolio website]("https://muazuabu.netlify.app/")
+- 🤔 I’m looking for a challenging project to hop on, i'm open to collaborations 😊.
 - 📫 How to reach me: isintumejenny@gmail.com.
-- ⚡ Fun fact: I am a movie freak. If am not coding, am watching movie. Most times, i forget to EAT when i am in my movie realm, it still amuses me.
+- ⚡ Fun fact: I am a movie freak. If am not coding, I'm watching movie. Most times, i forget to EAT when i am in my movie realm, it still amuses me.
 
 #### Top Technologies
 
